@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend server for file upload and ML model execution",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m venv venv && . venv/bin/activate && pip install --break-system-packages -r requirements.txt && node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Debasish Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
