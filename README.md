@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,3 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Friendship-blueprint-backend
 >>>>>>> 92032415b0ef7f4ba4ab8587dc5f2fb5d5aaee42
+=======
+# OTT-Audience-Map
+>>>>>>> 28bf92f78d2d056aafe68c5df5c003cf614b0c88
