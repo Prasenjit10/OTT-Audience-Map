@@ -20,7 +20,7 @@ function Upload() {
     setIsProcessing(true);
     try {
       const response = await axios.post(
-        "http://localhost:5000/upload",
+        "https://ott-audience-map.onrender.com/upload",
         formData,
         { headers: { "Content-Type": "multipart/form-data" } }
       );
